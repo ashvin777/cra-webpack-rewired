@@ -1,0 +1,30 @@
+{
+  "name": "cra-webpack-rewired",
+  "version": "1.0.0",
+  "description": "A plugin to override create-react-app webpack configuration with minimal changes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashvin777/cra-webpack-rewired.git"
+  },
+  "keywords": [
+    "webpack",
+    "create-react-app",
+    "rewired",
+    "override",
+    "create-react-app",
+    "webpack"
+  ],
+  "author": "Ashvin Suthar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashvin777/cra-webpack-rewired/issues"
+  },
+  "homepage": "https://github.com/ashvin777/cra-webpack-rewired#readme",
+  "dependencies": {
+    "rewire": "^5.0.0"
+  }
+}
