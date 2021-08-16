@@ -7,10 +7,12 @@ npm install --save-dev cra-webpack-rewired
 ```
 
 ### 2. Update the package.json, replace `react-scripts` command with `cra-webpack-rewired` command
-```javascript
+```diff
  "scripts": {
-    "start": "cra-webpack-rewired start",
-    "build": "cra-webpack-rewired build",
+-    "start": "react-scripts start",
++    "start": "cra-webpack-rewired start",
+-    "build": "react-scripts build",
++    "build": "cra-webpack-rewired build",
   }
 ```
 
