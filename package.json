@@ -1,6 +1,6 @@
 {
   "name": "cra-webpack-rewired",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to override create-react-app webpack configuration with minimal changes",
   "main": "src/index.js",
   "bin": "src/cli.js",
